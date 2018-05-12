@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7098
     wikipedia: http://it.wikipedia.org/wiki/Emma_Perodi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17035#Il-Principe-della-Marsiliana--13-Romanzo-romano
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2005-11-09'
 gutenberg_type: Text
